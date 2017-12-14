@@ -1,7 +1,7 @@
 # Site settings
-title: BY Blog
-SEOTitle: 葫芦娃的博客 | BY Blog
-header-img: img/post-bg-desk.jpg
+title: HLW Blog
+SEOTitle: 葫芦娃的博客 | HLW Blog
+header-img: img/pic.jpg
 email: liudongdong090909@gmail.com
 description: "Every failure is leading towards success."
 keyword: "BY, BY Blog, 葫芦娃, huluwa, liudongdong, JAVA, SCALA, BIGDATA"
@@ -12,7 +12,7 @@ github_repo: "https://github.com/liudongdong0909/liudongdong0909.github.io.git" 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "荒忽兮远望，观流水兮潺缓"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/664434.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
